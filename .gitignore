@@ -1,11 +1,3 @@
 /.vscode
-/hello.cpp
-/hello.exe
-/linear-search.exe
-/min-max.exe
-/namasteDunia.cpp
-/namasteDunia.exe
 /pattern-codes
-/pattern.exe
-/run.exe
-/test-pattern.exe
+/*.exe
